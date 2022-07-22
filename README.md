@@ -1,2 +1,2 @@
- Medics
+
 An prescription that is always hand written but when you want the information regarding your medical care it is harder to find the right prescription you want.Here this project helps you make paper free !No need of prescription every time you visit!When you visit doctor ,the prescription is sent in digital format to both pharmacist and patient at same time.The medical pharmacy can collect the data of patients and medicine they require.Patient can make use of message at each time he/she visits the hospital.It is an software requirement which can be installed with access of correct documents for licensed hospital.
