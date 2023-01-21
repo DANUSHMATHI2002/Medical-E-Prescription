@@ -14,8 +14,10 @@ in digital format as message.
 
 ***Scalability***
 * It is accessible to individual hospital according to their requirements.
+* 
 ***Feasability***
 * Software can be accessed by registered and licensed hospital and has a potential for success.
+
 ***Impact***
 * Paper Free Prescription
 * Avoid bundles of prescription papers…let it be handled by E-Prescription.
